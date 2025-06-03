@@ -24,8 +24,7 @@ export const About = () => {
 
           <div className="rounded-xl p-8 border-white/10 border hover:-translate-y-1 transition-all">
             <p className="text-gray-300 mb-6">
-              Passionate developer with expertise in building scalable web
-              applications and creating innovative solutions.
+              I am a proactive and ambitious computer science student passionate about leveraging technology to solve real-world problems. With a strong foundation in problem-solving, adaptability, and teamwork, I thrive in dynamic environments and continuously seek opportunities to grow my technical and interpersonal skills. Committed to delivering quality results and eager to contribute meaningfully to innovative projects.
             </p>
 
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
